@@ -1,0 +1,5 @@
+Flask
+mysql-connector
+pytest
+mysql-connector-python
+
